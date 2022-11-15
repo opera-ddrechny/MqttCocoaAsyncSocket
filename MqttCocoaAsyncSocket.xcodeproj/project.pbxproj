@@ -150,7 +150,7 @@
 			dependencies = (
 			);
 			name = "iOS MqttCocoaAsyncSocket";
-			productName = CocoaAsyncSocket;
+			productName = MqttCocoaAsyncSocket;
 			productReference = 6CD990101B77868C0011A685 /* MqttCocoaAsyncSocket.framework */;
 			productType = "com.apple.product-type.framework";
 		};
@@ -168,7 +168,7 @@
 			dependencies = (
 			);
 			name = "tvOS MqttCocoaAsyncSocket";
-			productName = "tvOS CocoaAsyncSocket";
+			productName = "tvOS MqttCocoaAsyncSocket";
 			productReference = 7D8B70C41BCFA15700D8E273 /* MqttCocoaAsyncSocket.framework */;
 			productType = "com.apple.product-type.framework";
 		};
@@ -186,7 +186,7 @@
 			dependencies = (
 			);
 			name = "Mac MqttCocoaAsyncSocket";
-			productName = "Mac CocoaAsyncSocket";
+			productName = "Mac MqttCocoaAsyncSocket";
 			productReference = 9FC41F131B9D965000578BEB /* MqttCocoaAsyncSocket.framework */;
 			productType = "com.apple.product-type.framework";
 		};
